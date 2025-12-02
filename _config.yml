@@ -1,0 +1,40 @@
+title: Swift & AI
+tagline: Un blog sobre iOS, Swift, IA y desarrollo moderno
+description: Blog técnico sobre desarrollo iOS, Swift, Inteligencia Artificial, LLMs y arquitecturas modernas.
+lang: es
+timezone: Europe/Madrid
+
+url: "https://swiftandai.com"
+baseurl: ""
+
+theme: jekyll-theme-chirpy
+
+author:
+  name: "Eugenio Barquín"
+  bio: "Software Engineer · iOS & AI"
+  avatar: "/assets/img/avatar.png"
+
+# Comentarios desactivados por defecto
+comments:
+  provider: false
+
+# Configuración de navegación
+nav:
+  - title: Inicio
+    url: /
+  - title: Sobre mí
+    url: /about/
+  - title: Artículos
+    url: /posts/
+
+# SEO
+paginate: 10
+paginate_path: "/page:num/"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
