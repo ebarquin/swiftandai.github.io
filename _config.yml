@@ -4,9 +4,7 @@ description: "A blog about iOS development, Swift, and practical AI."
 baseurl: ""
 url: "https://swiftandai.com"
 
-author:
-  name: "Eugenio Barquín"
-  email: ""
+author: "Eugenio Barquín"
 
 theme: minima
 
