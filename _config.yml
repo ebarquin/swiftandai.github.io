@@ -6,7 +6,7 @@ url: "https://swiftandai.com"
 
 author: "Eugenio Barquín"
 
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
 
 minima:
   social_links: []
@@ -14,3 +14,4 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
