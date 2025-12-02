@@ -10,6 +10,9 @@ author:
 
 theme: minima
 
+minima:
+  social_links: []
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
