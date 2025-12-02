@@ -1,15 +1,15 @@
 title: Swift & AI
-description: A blog about iOS development, Swift, and practical AI.
+email: ""
+description: "A blog about iOS development, Swift, and practical AI."
 baseurl: ""
 url: "https://swiftandai.com"
-
-theme: minima
-
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
 author:
   name: "Eugenio Barquín"
   email: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
