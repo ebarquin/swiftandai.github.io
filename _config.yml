@@ -1,24 +1,16 @@
-title: "Swift & AI"
+title: Swift & AI
 subtitle: "Explorando iOS · Modelos · Arquitectura · Agentes"
 email: ""
 description: "A blog about iOS development, Swift, and practical AI."
-
-url: "https://swiftandai.com"
 baseurl: ""
+url: "https://swiftandai.com"
 
-author:
-  name: "Eugenio Barquín"
-  avatar: "/assets/images/avatar.png"
-  bio: "iOS & AI developer. Swift + LLMs."
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/ebarquin"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/eugenio-barquin"
+author: "Eugenio Barquín"
 
 remote_theme: "mmistakes/minimal-mistakes"
+
+minima:
+  social_links: []
 
 plugins:
   - jekyll-feed
@@ -26,6 +18,3 @@ plugins:
   - jekyll-include-cache
 
 minimal_mistakes_skin: "default"
-
-sass:
-  style: compressed
