@@ -4,14 +4,17 @@ description: "A blog about iOS development, Swift, and practical AI."
 baseurl: ""
 url: "https://swiftandai.com"
 
-author: "Eugenio Barquín"
+author:
+  name: "Eugenio Barquín"
+  avatar: "/assets/images/avatar.png"
+  bio: "iOS & AI developer. Swift + LLMs."
+  links: []
 
 remote_theme: "mmistakes/minimal-mistakes"
-
-minima:
-  social_links: []
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
+
+minimal_mistakes_skin: "default"

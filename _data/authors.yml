@@ -1,0 +1,11 @@
+ebarquin:
+  name        : "Eugenio Barquín"
+  bio         : "iOS & AI Developer. I write about Swift, iOS development, and practical AI for developers."
+  avatar      : "/assets/images/avatar.jpg"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/eugenio-barquin"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/ebarquin"
