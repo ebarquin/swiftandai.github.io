@@ -1,5 +1,6 @@
-// scss-lint:disable all
 ---
+# Only the main Sass file needs front matter
 ---
 
-@import "custom";
+@import "minimal-mistakes";   // importa el tema
+@import "custom";             // importa tus overrides
