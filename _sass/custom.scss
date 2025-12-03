@@ -58,3 +58,13 @@
 #posts {
   margin-top: 40px;
 }
+
+.page__hero--overlay {
+  height: 550px; /* Ajusta entre 450–700 según quieras */
+  max-height: none;
+}
+
+.page__hero-image {
+  object-fit: cover;
+  object-position: center;
+}
