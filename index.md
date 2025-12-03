@@ -1,8 +1,5 @@
 ---
-layout: home
-author_profile: true
-title: "Swift & AI Blog"
+layout: home-hero
+title: ""
+author_profile: false
 ---
-
-Welcome to my blog.
-Here I write about Swift, iOS development, and practical AI for developers.

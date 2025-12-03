@@ -1,0 +1,37 @@
+.hero-container {
+  padding: 80px 20px;
+  text-align: center;
+  background: linear-gradient(135deg, #0A1B2A 0%, #111111 100%);
+  color: #fff;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.hero-title {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.hero-subtitle {
+  font-size: 20px;
+  opacity: 0.85;
+  margin-bottom: 30px;
+}
+
+.hero-button {
+  background: #39C0FF;
+  color: #000;
+  padding: 12px 24px;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.hero-button:hover {
+  background: #30AEE5;
+}
