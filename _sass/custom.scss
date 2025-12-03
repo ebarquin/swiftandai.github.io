@@ -1,3 +1,18 @@
+/* === Hero Image (header) === */
+.hero-image {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 0;
+  }
+}
+
+/* === Hero Container === */
 .hero-container {
   padding: 80px 20px;
   text-align: center;
@@ -14,6 +29,7 @@
   font-size: 48px;
   font-weight: 700;
   margin-bottom: 10px;
+  line-height: 1.2;
 }
 
 .hero-subtitle {
@@ -22,6 +38,7 @@
   margin-bottom: 30px;
 }
 
+/* === Hero Button === */
 .hero-button {
   background: #39C0FF;
   color: #000;
@@ -30,8 +47,14 @@
   font-weight: 600;
   text-decoration: none;
   display: inline-block;
+  transition: background 0.2s ease;
 }
 
 .hero-button:hover {
   background: #30AEE5;
+}
+
+/* === Space before posts === */
+#posts {
+  margin-top: 40px;
 }
